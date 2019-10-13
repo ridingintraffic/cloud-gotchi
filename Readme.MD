@@ -1,6 +1,6 @@
 # minio notes
 https://docs.min.io/docs/minio-client-complete-guide
-
+```
 # build setup
 #run this on your linux or mac host NOT the gotchi
 ./build-tarball.sh
@@ -29,3 +29,4 @@ tar xvf install.tar
 ./backup.sh # will backup specific files
 ./config-seed.sh # will clone configuration for prep to the new build.
 
+```
